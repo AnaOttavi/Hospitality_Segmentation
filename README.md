@@ -28,6 +28,7 @@ In order to begin our modeling step based on CRISP-DM methodology, we performed 
 <img width="232" alt="Screen Shot 2023-07-14 at 18 12 13" src="https://github.com/AnaOttavi/Hospitality_Segmentation/assets/86486485/2dea0e43-f658-441f-9176-8171eb344857">
 
 **RESULTS EVALUATION**
+
 The assessment of the model was performed using the R2 score, which represents the proportion of variance in the cluster labels. The final R2 score for the K-Means clustering solution was 0.6413, indicating that the clustering solution explains about 64% of the variance in the data.
 
 
@@ -38,26 +39,41 @@ The assessment of the model was performed using the R2 score, which represents t
 
 **Cluster 0: Younger people with more wealth:**
 The main characteristic of this cluster is the age. These clients are young and have no troubles with the noise once they present the lowest value for SRQuietRoom. Usually they travel alone or in couples and don't book in advance, once the cluster presents the lowest value on AverageLeadTime. These customers are the most valuable once they spend more money per year and per booking than any other.
+
 **Suggestions:**
+
 ● Through young social media influencers promote the hotel accommodation, services and experience to the younger people with acquisitive power worldwide and specifically on the French market as well.
+
 ● Create a specific and exclusive offer in terms of accommodation, service and experience to be promoted through the Travel agent/operator distribution channel worldwide, but focusing on the French market.
  
 **Cluster 1: Portuguese Clients:**
+
 The main characteristic of this cluster is to have a strong presence of Portuguese. Furthermore, these customers prefer to book directly with the hotel, without intermediaries, and are the most loyal ones to our hotels once they book frequently.
+
 **Suggestions:**
+
 ● Create a media plan to the Portuguese market involving television and radios to promote the brand and increase notoriety.
+
 ● Recognize their frequent presence through some surprises and gentle offers during their stayings at the hotel.
 
 **Cluster 2: Potencial and Mature Clients:**
+
 The main characteristic of this cluster is the highest value of SRQuietRoom. So, these clients require a calm environment. The age of these customers is majorly between 51-60 and they present a high acquisitive power once they are the second highest value for revenue. They also make their reservations with time in advance.
+
 **Suggestions:**
+
 ● Create a loyalty program with focused and tailored offers in order to promote loyalty and retain the customers;
+
 ● Design a tailored offer in terms of accommodation, service and experience in order to be promoted through the channels GDS Systems and Travel Agent/Operator.
 
 **Cluster 3: Advanced Booking Customers:**
+
 The main characteristic of this cluster is that the clients book with the larger antecedence compared with the other customers. German is the predominant nationality and Age_gap 60. Another characteristic is age, most likely they are retired customers. They may already have a financial reserve which contributes to early bookings.
+
 **Suggestions:**
+
 ● Create a partnership with travel agencies in order to organize trips to aged customers with tailored experiences and activities;
+
 ● Design a campaign to aged customers promoting opportunities to travel with buddies.
 
 **Cluster 4: Low cost travel:**
