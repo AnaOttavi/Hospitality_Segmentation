@@ -16,10 +16,15 @@ A new customer segmentation would allow the board and the marketing manager, A, 
 **BUSINESS OBJECTIVES**
 
 The main business objectives of our project are:
+
 ● Identify the characteristics and behaviors that should be used to segment the customers;
+
 ● Provide a segmentation solution and profile in terms of characteristics and behaviors;
+
 ● Suggest business insights to find and retain customers;
+
 ● Provide operational process suggestions to improve data quality;
+
 ● Provide updated and transparent data periodically to the marketing department. 
 
 **MODELING**
@@ -77,7 +82,11 @@ The main characteristic of this cluster is that the clients book with the larger
 ● Design a campaign to aged customers promoting opportunities to travel with buddies.
 
 **Cluster 4: Low cost travel:**
+
 This cluster includes customers with ages between 31 and 40 from everywhere in the world, the ones with the lowest acquisition power.
+
 **Suggestions:**
+
 ● Promote offers with discounts to middle age people in the less booked period of the year throughout the main distribution channels;
+
 ● Create a tailored offer for customers in middle age and sensible to prices.
