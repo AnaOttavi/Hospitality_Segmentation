@@ -8,6 +8,7 @@ This repository contains:
 
 
 **BACKGROUND**
+
 Hotel H belongs to an independent Hotel Chain C, located in Lisbon, Portugal. Hotel Chain C operated 4 hotels until 2015 and has been acquiring new ones since then. Furthermore, the Hotel Chain C created a marketing department and a new marketing manager position as part of its efforts to grow in the Hospitality market.
 The Hotel Chain C knows that understanding current customers allows organizations to identify groups of customers that have different characteristics and behaviors. Understanding them is vital in every industry once the process of finding new customers begins by learning as much as possible from the existing ones.
 The current Hotel Chain C actual segmentation is based on the origin of the sales and is done according to the hospitality standard market segmentation. The new marketing manager A considers that the segmentation does not fulfill the current needs and does not allow the organization to make better strategic choices about opportunities, product definition, positioning, promotions, pricing and target marketing, once it only reflects one of the customers’ characteristics.
